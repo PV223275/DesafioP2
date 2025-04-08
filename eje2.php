@@ -34,7 +34,7 @@ class Libro {
         echo "<td>{$this->edicion}</td>";
         echo "<td>{$this->lugar}</td>";
         echo "<td>{$this->editorial}</td>";
-        echo "<td>({$this->anio})</td>";
+        echo "<td>{$this->anio}</td>";
         echo "<td>{$this->paginas}</td>";
         echo "<td>{$this->notas}</td>";
         echo "<td>{$this->isbn}</td>";
